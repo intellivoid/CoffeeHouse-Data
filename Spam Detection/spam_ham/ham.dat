@@ -4724,7 +4724,7 @@ apt+dpkg work together as twins
 Apt-get install curl
 apt install ntfs-3g
 apt knows what to do with full-upgrade
-apt moo\nRC[0]\nstderr \\n\nWARNING: apt does not have a stable CLI interface. Use with caution in scripts.\n\n\n\nstdout \\n (__) \n (oo) \n /------\/ \n / | || \n * /\---/\ \n ~~ ~~ \n...Have you mooed today?...
+apt moo\nRC[0]\nstderr \n\nWARNING: apt does not have a stable CLI interface. Use with caution in scripts.\n\n\n\nstdout \n (__) \n (oo) \n /------\/ \n / | || \n * /\---/\ \n ~~ ~~ \n...Have you mooed today?...
 apt searches by regex 0_o
 apt search '.*ntfs.*'
 apt search '*ntfs*'
@@ -13807,7 +13807,7 @@ Dumb?\nim revealed bs
 Dummest fake report
 dump any updates dragon did on it
 Dump ppl i quit
-dumpsys battery|grep level\nRC[1]\nstderr \\n/data/data/com.termux/files/usr/bin/sh: 1: dumpsys: not found
+dumpsys battery|grep level\nRC[1]\nstderr \n/data/data/com.termux/files/usr/bin/sh: 1: dumpsys: not found
 Dun be sad moochooDunno \n180+ or something
 Dun b sad.. It's over.. Dun thk abt it already. Concentrate on ur other papers k.
 dun care enough
@@ -14279,9 +14279,9 @@ Eromanga sensei
 Eromanga Sensei - (エロマンガ先生)\n\nEpisode : -\nAiring in :\n\nFINISHED
 Eromanga-sensei - (エロマンガ先生)\n\n​Type : TV\nGenres : Comedy,Drama,Romance,Ecchi\nStatus : Finished Airing\nEpisode : 12\nScore : 6.7\nDuration : 23 min per ep\nStudios : A-1 Pictures\nPremiered : Spring 2017\n\nOne year ago, Sagiri Izumi became step-siblings with Masamune Izumi. But the sudden death of their parents tears their new family apart, resulting in Sagiri becoming a shut-in which cut her off from her brother and society. While caring for what's left of his family, Masamune earns a living as a published light novel author with one small problem: he's never actually met his acclaimed illustrator, Eromanga-sensei, infamous for drawing the most lewd erotica. Through an embarrassing chain of events, he learns that his very own little sister was his partner the whole time! As new characters and challenges appear, Masamune and Sagiri must now face the light novel industry together. Eromanga-Sensei follows the development of their relationship and their struggle to become successful; and as Sagiri slowly grows out of her shell, just how long will she be able to hide her true persona from the rest of the world? [Written by MAL Rewrite]
 Err... Cud do. I'm going to  at 8pm. I haven't got a way to contact him until then.
-err \\nInvalid user
-err \\nReply to be quoted message
-err \\nUnknown entity
+err \nInvalid user
+err \nReply to be quoted message
+err \nUnknown entity
 Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message\n at buildConfig.then.then.then.then (/home/pi/ThemerBot/node_modules/telegraf/core/network/client.js:281:17)\n at processTicksAndRejections (internal/process/task_queues.js:86:5)
 Error: 400: Bad Request: query is too old and response timeout expired or query ID is invalid\n at buildConfig.then.then.then.then (/home/pi/ThemerBot/node_modules/telegraf/core/network/client.js:281:17)\n at processTicksAndRejections (internal/process/task_queues.js:86:5)
 Error: 403: Forbidden: bot was blocked by the user\n at buildConfig.then.then.then.then (/home/pi/ThemerBot/node_modules/telegraf/core/network/client.js:281:17)\n at processTicksAndRejections (internal/process/task_queues.js:86:5)
@@ -15887,7 +15887,7 @@ From someone not to smoke when every time I've smoked in the last two weeks is b
 From somewhere 😂
 #fromsubscriber \n\n@justmemes
 From susahsuwit
-from telethon.tl.types import MessageEntityTextUrl\nl = Type[py]\nfrom telethon.tl.types import MessageEntityTextUrl\nr = await e.get_reply_message()\nreturn [i.url for i in [i for i in r.entities if isinstance(i, MessageEntityTextUrl)] if 'youtube' in i.url]\nState[Executed]\nOutput \\n['https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ', 'https://www.youtube.com/channel/UCQ4FyiI_1mWI2AtLS5ChdPQ', 'https://www.youtube.com/channel/UCFHMw64uu66VKPXq5gh29IQ', 'https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w', 'https://www.youtube.com/channel/UC1nM46_BMKq4vd4jmd6iMHA', 'https://www.youtube.com/channel/UCRE6itj4Jte4manQEu3Y7OA', 'https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ', 'https://www.youtube.com/channel/UCKOvOaJv4GK-oDqx-sj7VVg', 'https://www.youtube.com/channel/UCWb-66XSFCV5vgKEbl22R6Q', 'https://www.youtube.com/channel/UCkiQVFYHdhLhPnikmU5cFGQ', 'https://www.youtube.com/channel/UCEaEuLUvy4Y1DqpxiDvnxeQ', 'https://www.youtube.com/channel/UCZzR7tqZKAXWT8uOi-RHuVA', 'https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw', 'https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA', 'https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA', 'https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw', 'https://www.youtube.com/channel/UCte3qx7A5OWTPSnNjV4oheg', 'https://www.youtube.com/channel/UCLOwKVD0bYHxaDZxXkK4piw', 'https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q', 'https://www.youtube.com/channel/UCu6v4AdYxVH5fhfq9mi5llA', 'https://www.youtube.com/channel/UCpJmBQ8iNHXeQ7jQWDyGe3A', 'https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w', 'https://www.youtube.com/channel/UCVh47EKH9VLresRqiYi9txw', 'https://www.youtube.com/channel/UCFUsBdbrNe2a8tnVsxBwoZw', 'https://www.youtube.com/channel/UClo-m7j8vY05RUIduXqyjHw', 'https://www.youtube.com/channel/UCDQBZcjYKP1J1Nu-Y0_D37Q', 'https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q', 'https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q', 'https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA', 'https://www.youtube.com/channel/UCj2PPLrBH7R-hAxOfM3d0pA', 'https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ', 'https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ', 'https://www.youtube.com/channel/UCD3s42nOCbKCQerjYBLZZRg', 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA', 'https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw', 'https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ', 'https://www.youtube.com/channel/UCkQ3eqNNaFrBZ_WbnCIMN8w', 'https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA', 'https://www.youtube.com/channel/UCpLw_vyY6pDFIKhPGTSTLKw']\nr = await e.get_reply_message()\nk = [i.url for i in [i for i in r.entities if isinstance(i, MessageEntityTextUrl)] if 'youtube' in i.url]\nfor i in l:\n if i in k:\n k.pop(i)\nreturn k
+from telethon.tl.types import MessageEntityTextUrl\nl = Type[py]\nfrom telethon.tl.types import MessageEntityTextUrl\nr = await e.get_reply_message()\nreturn [i.url for i in [i for i in r.entities if isinstance(i, MessageEntityTextUrl)] if 'youtube' in i.url]\nState[Executed]\nOutput \n['https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ', 'https://www.youtube.com/channel/UCQ4FyiI_1mWI2AtLS5ChdPQ', 'https://www.youtube.com/channel/UCFHMw64uu66VKPXq5gh29IQ', 'https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w', 'https://www.youtube.com/channel/UC1nM46_BMKq4vd4jmd6iMHA', 'https://www.youtube.com/channel/UCRE6itj4Jte4manQEu3Y7OA', 'https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ', 'https://www.youtube.com/channel/UCKOvOaJv4GK-oDqx-sj7VVg', 'https://www.youtube.com/channel/UCWb-66XSFCV5vgKEbl22R6Q', 'https://www.youtube.com/channel/UCkiQVFYHdhLhPnikmU5cFGQ', 'https://www.youtube.com/channel/UCEaEuLUvy4Y1DqpxiDvnxeQ', 'https://www.youtube.com/channel/UCZzR7tqZKAXWT8uOi-RHuVA', 'https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw', 'https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA', 'https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA', 'https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw', 'https://www.youtube.com/channel/UCte3qx7A5OWTPSnNjV4oheg', 'https://www.youtube.com/channel/UCLOwKVD0bYHxaDZxXkK4piw', 'https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q', 'https://www.youtube.com/channel/UCu6v4AdYxVH5fhfq9mi5llA', 'https://www.youtube.com/channel/UCpJmBQ8iNHXeQ7jQWDyGe3A', 'https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w', 'https://www.youtube.com/channel/UCVh47EKH9VLresRqiYi9txw', 'https://www.youtube.com/channel/UCFUsBdbrNe2a8tnVsxBwoZw', 'https://www.youtube.com/channel/UClo-m7j8vY05RUIduXqyjHw', 'https://www.youtube.com/channel/UCDQBZcjYKP1J1Nu-Y0_D37Q', 'https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q', 'https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q', 'https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA', 'https://www.youtube.com/channel/UCj2PPLrBH7R-hAxOfM3d0pA', 'https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ', 'https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ', 'https://www.youtube.com/channel/UCD3s42nOCbKCQerjYBLZZRg', 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA', 'https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw', 'https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ', 'https://www.youtube.com/channel/UCkQ3eqNNaFrBZ_WbnCIMN8w', 'https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA', 'https://www.youtube.com/channel/UCpLw_vyY6pDFIKhPGTSTLKw']\nr = await e.get_reply_message()\nk = [i.url for i in [i for i in r.entities if isinstance(i, MessageEntityTextUrl)] if 'youtube' in i.url]\nfor i in l:\n if i in k:\n k.pop(i)\nreturn k
 from telethon.tl.types import MessageEntityTextUrl\nr = await e.get_reply_message()\nlinks = [i for i in r.entities if 'youtube' in getattr(i, 'url', '')]\nreturn [i for i in links if 'youtube' in i]
 From that time i only bought second SSD for files
 From the list i mean
@@ -19207,7 +19207,7 @@ heroku.com is an option
 heroku.com\nWorkers.dev\n000webhost.com\n\n#free #host #tg #bots
 heroku doesn't even give error
 heroku logs ??
-heroku logs --tail\nRC[1]\nstderr \\n › Warning: heroku update available from 7.37.0 to 7.38.1.\n ▸ Invalid credentials provided.\n › Warning: heroku update available from 7.37.0 to 7.38.1.\nheroku: Press any key to open up the browser to login or q to exit: /data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/@oclif/errors/lib/index.js:29\n throw err;\n ^\n\nCLIError: timed out\n at Object.error (/data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/@oclif/errors/lib/index.js:22:17)\n at Timeout._onTimeout (/data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:27:38)\n at listOnTimeout (internal/timers.js:531:17)\n at processTimers (internal/timers.js:475:7) {\n oclif: { exit: 2 },\n code: undefined\n}\n ▸ Command failed: heroku login
+heroku logs --tail\nRC[1]\nstderr \n › Warning: heroku update available from 7.37.0 to 7.38.1.\n ▸ Invalid credentials provided.\n › Warning: heroku update available from 7.37.0 to 7.38.1.\nheroku: Press any key to open up the browser to login or q to exit: /data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/@oclif/errors/lib/index.js:29\n throw err;\n ^\n\nCLIError: timed out\n at Object.error (/data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/@oclif/errors/lib/index.js:22:17)\n at Timeout._onTimeout (/data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:27:38)\n at listOnTimeout (internal/timers.js:531:17)\n at processTimers (internal/timers.js:475:7) {\n oclif: { exit: 2 },\n code: undefined\n}\n ▸ Command failed: heroku login
 heroku will suspend this app very fast.\nany aria2 app.\n\nit is aria NG on github
 Her psychology
 Her shakara i too much
@@ -42042,7 +42042,7 @@ Nnnnn\n[button](buttonurl:https://t.me/bothubspam/29257)
 😂😂😂\n\n\n\nThe power of the name
 😍😍👍👍\n\n\nYesss So PROUD OF YOU VG\n\nSeeee you all won @naaataling
 |￣￣￣￣￣￣￣￣￣￣￣|\n no\n|＿___＿＿＿＿＿＿＿＿__| \n \ (•◡•) / \n \ / \n ---\n | |
--------------------------\n \ , ,\n \ (oo)____\n (__) )\\n ||--|| *
+-------------------------\n \ , ,\n \ (oo)____\n (__) )\n ||--|| *
 |￣￣￣￣￣￣￣￣￣￣￣|\n NO WOLFMAN\n|＿___＿＿＿＿＿＿＿＿__| \n \ (•◡•) / \n \ / \n ---\n | |
 |￣￣￣￣￣￣￣￣￣￣￣|\n NO WOLFMAN\n NO THIEF\n|＿___＿＿＿＿＿＿＿＿__| \n \ (•◡•) / \n \ / \n ---\n | |
 |￣￣￣￣￣￣￣￣￣￣￣|\n NO WOLFMAN\n NO. THIEF\n|＿___＿＿＿＿＿＿＿＿__| \n \ (•◡•) / \n \ / \n ---\n | |
@@ -44120,7 +44120,7 @@ Nvm u gotta buy it
 Nvr trust a BE feg
 N WARN ME BEF I DO
 😂😂😂😂😂\nWe dey plan your murder
-___________________\n Welcome - @abcdefghijklmopqrstuvxyzti\nIn the official T-ui Telegram group\n\nTake a look at\n@T_uiThemes\n@T_uiBoard\n@Tui_Music\n -------------------------\n \ , ,\n \ (oo)____\n (__) )\\n ||--|| *
+___________________\n Welcome - @abcdefghijklmopqrstuvxyzti\nIn the official T-ui Telegram group\n\nTake a look at\n@T_uiThemes\n@T_uiBoard\n@Tui_Music\n -------------------------\n \ , ,\n \ (oo)____\n (__) )\n ||--|| *
 😂😂😂\nWetin sup\n\nWe win this night? How many ighalo score
 n what is your screen dpi? Dude!
 😂😂😂😂\nWhere are you from?
@@ -54862,7 +54862,7 @@ Tap /stalk to use it
 Tap the report and block button in your client.
 Tarane already fbanned in this federation.
 ▶️⏩⏩⏩ @taremire_bot only now can you get up to $ 1,000 a day!▸͞͞↳̽🇸🇴 ⸸𝒂𝒗𝒂 ▸͞͞↳̽🇸🇴 has fled in terror!\n\n4 players remain.
-TargetChat[HACKERS]\nAdmins \\nScrapper\n...\nSallu\nSCRAPPERS\nPLAYBOW\n☠ [🇮🇳] Δɱɱαཞ ︻┳ั芫ี┳═─┵ [🇮🇳]《 HK™》《#иєтfℓιχ¢σммιχ》#ʙᴇ_ʟᴇɢɪᴛ 【★Fв™
+TargetChat[HACKERS]\nAdmins \nScrapper\n...\nSallu\nSCRAPPERS\nPLAYBOW\n☠ [🇮🇳] Δɱɱαཞ ︻┳ั芫ี┳═─┵ [🇮🇳]《 HK™》《#иєтfℓιχ¢σммιχ》#ʙᴇ_ʟᴇɢɪᴛ 【★Fв™
 Targeted Account Hacked...\n\nPay 9999$ To @Three_Cube_TeKnoways or a Plate of Samosas To Remove This Hack
 Targeted Account Hacked...\n\nPay 999$ To @r4v4n4 To Remove This Hack
 Target killed successfully (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)
