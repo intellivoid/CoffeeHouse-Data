@@ -71785,3 +71785,17 @@ Bilim Kurulu Üyesi Prof.Dr.Ateş Kara(Yükseköğretim kurumları sınavı hakk
 Сворачиваешь на рабочий стол - и прям 2 фпс у анимки
 Ну я понял, тогда пока с ядром все норм
 Bi yollasa yiyeceğiz biz de koronaya karşı direnç kazanazağız da göndermiyor işte
+.exec from nana.helpers.PyroHelpers import ReplyCheck\nimport aiohttp\nURL = "https://some-random-api.ml/animu/pat"\nasync with aiohttp.ClientSession() as session:\n async with session.get(URL) as request:\n if request.status == 404:\n return await message.edit("`no Pats for u :c")\n result = await request.json()\n url = result.get("link", None)\n await client.send_video(message.chat.id, url,\n reply_to_message_id=ReplyCheck(message)\n )
+Ora ci scoppia la guerra che doveva scoppiare tempo fa e siamo apposto
+comunque bisogna dire che è nato ieri il bot, basandosi su Machine Learning gli servono settimane per imparare per bene come rilevare al 100% lo spam, poi non ci sono tante opzioni di rilevamento
+e rileva anche che lo spam è solo a circa l'1%
+you use your main balance to pay for plans and services
+Btaa de.. \n70 -80 kinna😂😂
+Это картинка и мозайнк сиписал ни работы женщины и девушки Узбекистан
+#Crdroid #Ginkgo #Willow #A10 #Official #V6.7 \n \nCrdroid Official Q ROM for Redmi Note 8/8T \n \nBy @mg712702 \n \nDevice Changelog : \n \n* Merge tag android-10.0.0_r37 \n* Fixed Macro & Wide lens \n* Fixed Gcam raw10 buffer \n* Added ANX v184 with lots of new features \n* Updated ofilm chromatix libs from Lenovoved \n* Updated kernel to ALS v184 \n* Improved Light hal \n* Improved Auto brightness \n* Added Mi soundFX \n* Improved Audio quality \n* Updated Thermal config for hotplugging and smoother throttling \n* A lot more device specific fixes \n \nCredits : \n \n* Thanks to "Adithya R" for Macro & Wide camera fix \n* Thanks to "Dyneteve" for Gcam raw10 buffer fix \n* Thanks to "Lenovoved" for ofilm chromatix libs \n* Thanks to "STRIX247" for Thermal configs \n* Thanks to "kkp1997", my all time tester \n \nFollow 👉🏻 @Rn8Updates \nJoin 👉🏻 @Rn8discussions
+"civil union"
+Your text matches 99.90% with some 75 year old text
+Watch "How to Make an Attractive City" on YouTube https://youtu.be/Hy4QjmKzF1c
+EVAL: chat = await event.get_chat()\nprint(chat) \n\n OUTPUT: \nChannel(id=1123894584, title='Test 1 2', photo=ChatPhoto(photo_small=FileLocationToBeDeprecated(volume_id=400011300966, local_id=129772), photo_big=FileLocationToBeDeprecated(volume_id=400011300966, local_id=129774), dc_id=4), date=datetime.datetime(2017, 5, 21, 14, 8, 45, tzinfo=datetime.timezone.utc), version=0, creator=True, left=False, broadcast=False, verified=False, megagroup=True, restricted=False, signatures=False, min=False, scam=False, has_link=False, has_geo=False, slowmode_enabled=False, access_hash=-1253873058590866000, username=None, restriction_reason=[], admin_rights=None, banned_rights=None, default_banned_rights=ChatBannedRights(until_date=datetime.datetime(2038, 1, 19, 3, 14, 7, tzinfo=datetime.timezone.utc), view_messages=False, send_messages=False, send_media=False, send_stickers=False, send_gifs=False, send_games=False, send_inline=False, embed_links=False, send_polls=False, change_info=False, invite_users=False, pin_messages=False), participants_count=None)
+1 alfaz MN sabkj sameeet dia apne
+Mujko Canada se Aya tha msg\nAjkl ye Bitcoin Waley bhi pareshn KR rahe
