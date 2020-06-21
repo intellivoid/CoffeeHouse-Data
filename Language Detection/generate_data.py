@@ -19,14 +19,14 @@ def generate_data(input, current, total):
             if results.text != input:
                 with open("langdetect/{0}.dat".format(language_code), mode="a", encoding="utf8") as f:
                     time.sleep(0)
-                    #f.write(results.text + "\n")
+                    f.write(results.text + "\n")
                     if isinstance(results.pronunciation, six.string_types):
                         if results.pronunciation != results.text:
                             if results.pronunciation != input:
                                 time.sleep(0)
-                                #f.write(results.pronunciation + "\n")
-            #with open("langdetect/en.dat".format(language_code), mode="a", encoding="utf8") as f:
-                #f.write(input + "\n")
+                                f.write(results.pronunciation + "\n")
+            with open("langdetect/en.dat".format(language_code), mode="a", encoding="utf8") as f:
+                f.write(input + "\n")
         except KeyboardInterrupt:
             print("\nCanceled")
             sys.exit()
