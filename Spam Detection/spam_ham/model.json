@@ -11,7 +11,7 @@
         "vec_dim": 100,
         "test_ratio": 0.5,
         "architecture": "cnn",
-        "batch_size": 64
+        "batch_size": 264
     },
     "classification": [
         {"l": "spam", "f": "spam.dat"},
