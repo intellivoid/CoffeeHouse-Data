@@ -8,8 +8,8 @@
     },
     "training_properties":{
         "epoch": 30,
-        "vec_dim": 200,
-        "test_ratio": 0.8,
+        "vec_dim": 100,
+        "test_ratio": 0.5,
         "architecture": "cnn",
         "batch_size": 256
     },
