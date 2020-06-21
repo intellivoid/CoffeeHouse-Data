@@ -3,7 +3,6 @@ import csv
 import os
 import six
 import sys
-import time
 
 def get_language_codes():
     codes = ["af","sq","am","ar","hy","az","eu","be","bn","bs","bg","ca","ceb","zh-CN","zh","zh-TW","co","hr","cs","da","nl","eo","et","fi","fr","fy","gl","ka","de","el","gu","ht","ha","haw","he","iw","hi","hmn","hu","is","ig","id","ga","it","ja","jv","kn","kk","km","rw","ko","ku","ky","lo","la","lv","lt","lb","mk","mg","ms","ml","mt","mi","mr","mn","my","ne","no","ny","or","ps","fa","pl","pt","pa","ro","ru","sm","gd","sr","st","sn","sd","si","sk","sl","so","es","su","sw","sv","tl","tg","ta","tt","te","th","tr","tk","uk","ur","ug","uz","vi","cy","xh","yi","yo","zu","la"]
@@ -18,12 +17,10 @@ def generate_data(input, current, total):
             results = translator.translate(input, src='en', dest=language_code)
             if results.text != input:
                 with open("langdetect/{0}.dat".format(language_code), mode="a", encoding="utf8") as f:
-                    time.sleep(0)
                     f.write(results.text + "\n")
                     if isinstance(results.pronunciation, six.string_types):
                         if results.pronunciation != results.text:
                             if results.pronunciation != input:
-                                time.sleep(0)
                                 f.write(results.pronunciation + "\n")
             with open("langdetect/en.dat".format(language_code), mode="a", encoding="utf8") as f:
                 f.write(input + "\n")
