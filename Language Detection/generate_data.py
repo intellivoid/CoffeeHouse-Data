@@ -31,7 +31,7 @@ def generate_data(input, current, total):
             pass
         current_count += 1
 
-def progressBar(iterable, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
+def progressBar(iterable, prefix='', suffix='', decimals=1, length=100, fill='|', printEnd="\r"):
     """
     Call in a loop to create terminal progress bar
     @params:
@@ -61,9 +61,9 @@ def progressBar(iterable, prefix = '', suffix = '', decimals = 1, length = 100, 
     # Print New Line on Complete
     print()
 
-total_lines = sum(1 for line in open('input.txt'))
+total_lines = sum(1 for line in open('input.txt', encoding="utf-8"))
 current_line = 1
-with open("input.txt") as file_in:
+with open("input.txt", encoding="utf-8") as file_in:
     for line in file_in:
         generate_data(line, current_line, total_lines)
         current_line += 1
